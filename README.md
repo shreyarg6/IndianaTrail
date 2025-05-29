@@ -1,4 +1,3 @@
-/*
-Over the CNIT 255 class has embarked on the exploration of coding in Java. As a group, we wanted to solve the issue of user boredom. In order to resolve this issue, we conducted brief research. Through the process of research, the classic game “Oregon Trail” was deemed to be our foundation for this project. We then decided to brainstorm in order to present the best capable project. Our brainstorming included which original components we wanted to incorporate and which we planned to design ourselves. We developed said app through coding in Java and the utilization of the Graphical User Interface (GUI) component, naming the application “Indiana Trial”. There’s a total of 6 classes: 3 inheritance relationships between classes, 4 association relationships between classes and two java interfaces. With all of the material learned throughout this semester, we were able to successfully create the application.
-Overall, we were able to develop an application that pays homage to the original game of “Oregon Trail” while showcasing our implementations. The goal of the game is to allow the user to progress forward given the chance to gain health. Each choice at the end will determine whether or not the user has survived the Indiana Trail.
-*/
+# Indiana Trail
+This is my recreation of the class game Oregan Trail. <br>
+Users can move forward to their destination by utilizing their coins in the store and restoring their health. <br>
